@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='Chain of Responsiility'/>
+        <page name='Command'/>
+        <page name='Iterator'/>
+        <page name='Mediator'/>
+        <page name='Memento'/>
+        <page name='Observer'/>
+        <page name='State'/>
+        <page name='Strategy'/>
+        <page name='Template'/>
+        <page name='Visitor'/>
+    </pages>
+</playground>
